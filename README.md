@@ -1,3 +1,5 @@
+***
+
 # Maven Market Dashboard
 
 ## Short Description / Purpose
@@ -69,6 +71,7 @@ Maven Market can maximize growth by focusing on retaining high-value customers t
 - Power QueryDAX (Data Analysis Expressions)
 - Data Modeling
 - .pbix file format
-  
+
+***
 ## Screenshots / Demos
 [view project screenshot](https://github.com/akramaftab/power-bi-maven-market-project/blob/main/maven%20market%20dashboard%20screenshot.pdf)
