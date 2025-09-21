@@ -71,5 +71,4 @@ Maven Market can maximize growth by focusing on retaining high-value customers t
 - .pbix file format
   
 ## Screenshots / Demos
-
-(Include snapshots of key dashboard visuals such as sales trends, customer segmentation, returns analysis, and geo-heatmaps showing revenue distribution.)
+[view project screenshot](https://github.com/akramaftab/power-bi-maven-market-project/blob/main/maven%20market%20dashboard%20screenshot.pdf)
